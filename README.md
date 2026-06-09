@@ -1,4 +1,4 @@
-# Student Performance Prediction using Linear Regression
+# Comparing two Linear Regression Models for Predicting Student Academic Performance
 
 ## Project Overview
 
