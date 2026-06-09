@@ -65,5 +65,3 @@ The comparison demonstrates the impact of previous academic performance on final
 * NumPy
 * Scikit-learn
 * Jupyter Notebook
-
-[Your Name]
